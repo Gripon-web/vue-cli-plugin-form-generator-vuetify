@@ -1,0 +1,29 @@
+{
+  "name": "vue-cli-plugin-form-generator-vuetify",
+  "version": "0.1.0",
+  "description": "Plugin for Vue CLI 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gripon-web/vue-cli-plugin-form-generator-vuetify.git"
+  },
+  "keywords": [
+    "vuetify",
+    "form",
+    "form-generator",
+    "plugin",
+    "vue",
+    "cli",
+    "3"
+  ],
+  "author": "Gripon-web <gripon-web@outlook.fr>",
+  "license": "MIT",
+  "homepage": "https://github.com/Gripon-web/vue-cli-plugin-form-generator-vuetify#readme",
+  "devDependencies": {
+    "@vue/cli-service": "^3.0.1",
+    "form-generator-vuetify": "https://github.com/Gripon-web/vuetify-form-generator"
+  }
+}
