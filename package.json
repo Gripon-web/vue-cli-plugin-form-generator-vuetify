@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-form-generator-vuetify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for Vue CLI 3",
   "main": "index.js",
   "scripts": {
