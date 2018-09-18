@@ -3,7 +3,7 @@ const helpers = require('./helpers')
 function addDependencies(api) {
   api.extendPackage({
     dependencies: {
-      "form-generator-vuetify": "^0.1.2"
+      "form-generator-vuetify": "^0.1.4"
     }
   })
 }
